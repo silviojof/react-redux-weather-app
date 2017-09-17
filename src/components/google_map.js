@@ -16,7 +16,6 @@ class GoogleMap extends Component {
         lng: this.props.lon
       }
     });
-    console.log(this);
   }
 
   render() {
